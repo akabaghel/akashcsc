@@ -1,0 +1,14 @@
+{
+  "jobs": [
+    { "title": "RPF Constable Online Form 2025", "link": "https://example.com/rpf-form" },
+    { "title": "UPSC CAPF AC Online Form 2025", "link": "https://example.com/upsc-form" }
+  ],
+  "admitCards": [
+    { "title": "NEET UG 2025 Admit Card", "link": "https://example.com/neet-admit" },
+    { "title": "NTA CMAT 2025 Exam Date", "link": "https://example.com/cmat-date" }
+  ],
+  "results": [
+    { "title": "West Bengal 10th Result 2025", "link": "https://example.com/wb-result" },
+    { "title": "PGCIL Diploma Trainee Result 2025", "link": "https://example.com/pgcil-result" }
+  ]
+}
